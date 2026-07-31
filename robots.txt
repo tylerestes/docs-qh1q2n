@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ihkvqy.keitaro-tech-rtb.online/sitemap.xml
